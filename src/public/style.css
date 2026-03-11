@@ -1,0 +1,63 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0;
+    background:#f4f4f4;
+}
+
+header{
+    background:#f7df1e;
+    text-align:center;
+    padding:30px;
+}
+
+header h1{
+    margin:0;
+}
+
+section{
+    padding:20px;
+    max-width:800px;
+    margin:auto;
+}
+
+.info{
+    background:white;
+    margin-top:20px;
+    border-radius:8px;
+}
+
+.benefits{
+    background:white;
+    margin-top:20px;
+    border-radius:8px;
+}
+
+ul{
+    line-height:1.8;
+}
+
+.cta{
+    text-align:center;
+    margin-top:30px;
+}
+
+button{
+    background:#323330;
+    color:white;
+    border:none;
+    padding:12px 20px;
+    font-size:16px;
+    border-radius:5px;
+    cursor:pointer;
+}
+
+button:hover{
+    background:#555;
+}
+
+footer{
+    text-align:center;
+    padding:15px;
+    margin-top:40px;
+    background:#ddd;
+}
